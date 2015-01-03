@@ -1,4 +1,9 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 24 Dec 2014 01:55:13 PM CET
+EESchema-DOCLIB  Version 2.0  Date: Sat 03 Jan 2015 05:16:14 PM CET
+#
+$CMP ARDUINO_NANO
+D Arduino Nano
+K arduino nano atmega328
+$ENDCMP
 #
 $CMP ARDUINO_UNO
 D Arduino Uno R3
