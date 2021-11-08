@@ -3,7 +3,7 @@
 This repository contains [KiCad][] libraries for representing various
 [Arduino][] boards and components.
 
-[KiCad]: http://www.kicad-pcb.org
+[KiCad]: http://www.kicad.org
 [Arduino]: http://arduino.cc/
 
 ## What's included ##
